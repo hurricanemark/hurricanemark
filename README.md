@@ -19,7 +19,7 @@ I am a seasoned software producer at AES LLC. I am driven by a curiosity for tec
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,bash,docker,git,jenkins,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -38,6 +38,8 @@ I am a seasoned software producer at AES LLC. I am driven by a curiosity for tec
 
 - 🌟   Building Web APIs with ASP.NET Core in .NET - LinkedIn
 
+- ⚡ [Resume](https://gist.github.com/hurricanemark/10fe4d8bbb07d766549dce6f6ec74ce9)
+ 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/marknltv)
