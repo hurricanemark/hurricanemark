@@ -19,7 +19,7 @@ I am a seasoned software producer at AES LLC. I am driven by a curiosity for tec
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,bash,docker,git,jenkins,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,bash,docker,git,jenkins,aws,azure,mongodb,linux,windows,net,vscode,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
