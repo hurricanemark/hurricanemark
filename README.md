@@ -43,7 +43,7 @@ I am a seasoned software producer at AES LLC. I am driven by a curiosity for tec
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/marknltv)
-- Read more of my articles on [gist](https://gist.github.com/hurricanemark/)
+- Read more of my articles on [newsflash](https://new.aesclever.com/newsflash)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
