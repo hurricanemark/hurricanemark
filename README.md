@@ -1,6 +1,6 @@
 # Hi, I'm Mark V. Nguyen! 👋
 
-I am a seasoned software producer at AES LLC. I am driven by a curiosity for technology and a love for learning by doing. 
+I am a seasoned software producer at AES LLC. I am also a founding member at [outsidethestacks.com](https://www.outsidethestack.net/).  I am driven by a curiosity for technology and a love for learning by doing. 
 
     "Knowing is not enough; we must apply. Wishing is not enough; we must do."
     Johann Wolfgang von Goethe
