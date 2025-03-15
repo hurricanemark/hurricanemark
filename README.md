@@ -9,7 +9,7 @@ I am a seasoned software producer at AES LLC. I am also a founding member at [ou
 
 ## 🚀 About Me
 
-- 🔭 I'm a founding member of [OutsideTheTacks Inc.](https://outsidethestacks.com)  I am also an engineer and the CTO of [Applied Expert Systems LLC](https://new.aesclever.com)
+- 🔭 I'm a founding member at [OutsideTheTacks Inc.](https://outsidethestacks.com)  I am also an engineer and the CTO of [Applied Expert Systems LLC](https://new.aesclever.com)
 - 📝 I authored and notably produced four enterprise software solutions being used by many fortune-500 companies.
 - 🌐 I regularly post technical papers on my company's blog and contribute to open source projects.
 - ✍️ Content Writer at [AES LLC](https://new.aesclever.com/newsflash)
