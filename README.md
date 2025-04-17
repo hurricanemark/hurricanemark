@@ -44,7 +44,8 @@ I am a seasoned software producer at AES LLC. I am also a founding member at [ou
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/marknltv)
 - Read more of my articles on [newsflash](https://new.aesclever.com/newsflash)
-
+- Public Gist [AbuseIPDB](https://gist.github.com/hurricanemark/8949d1ec510ff03693bf20e603f0dc7f)
+  
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
