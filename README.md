@@ -18,7 +18,7 @@ I am a seasoned software producer at AES LLC. I am also a founding member at [ou
 - [Sattelite Transmission Interception, A Post Quantum Menace](https://gist.github.com/aesclever/895d3ae6b3e47cfd665d97fdf82e4795)
 
 
-## Tech Stack
+## Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,bash,docker,git,jenkins,aws,azure,mongodb,linux,windows,net,vscode,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
