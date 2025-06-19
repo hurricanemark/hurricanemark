@@ -5,7 +5,7 @@ I am a seasoned software producer at AES LLC. I am also a founding member at [ou
     "Knowing is not enough; we must apply. Wishing is not enough; we must do."
     Johann Wolfgang von Goethe
 
-![hurricanemark's Stats](https://github-readme-stats.vercel.app/api?username=hurricanemark&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!--   ![hurricanemark's Stats](https://github-readme-stats.vercel.app/api?username=hurricanemark&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 🚀 About Me
 
